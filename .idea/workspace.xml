@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7138d90-4b85-4aad-a793-41240af32924" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/android/apps/fotokartinki.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/android/apps/stickers.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/android/browserstack-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/android/local-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/android/release/1.11.4.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/android/release/1.12.0.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/android/release/1.12.0_v12.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/android/release/dev.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/android/release/dev2.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vimalselvam/DeviceApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vimalselvam/DeviceApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/vimalselvam/stf/AndroidTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vimalselvam/stf/AndroidTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kT8TLBXEuf5D1pciZTXWCeTwgq" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$ANDROID_ROOT$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33448276" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\STF\appium-stf-example\src\driver" />
+      <recent name="D:\STF\appium-stf-example\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AndroidTest" type="TestNG" nameIsGenerated="true">
+      <module name="appium-stf-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vimalselvam.stf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8 (2)" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.vimalselvam.stf" />
+      <option name="MAIN_CLASS_NAME" value="com.vimalselvam.stf.AndroidTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7138d90-4b85-4aad-a793-41240af32924" name="Default Changelist" comment="" />
+      <created>1605713227221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605713227221</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="239" key="#AndroidTest" timestamp="1605713286710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="239" key="#AndroidTest/0.0.1920.1040@0.0.1920.1040" timestamp="1605713286710" />
+    <state x="552" y="182" key="#Project_Structure" timestamp="1605784709078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1605784709078" />
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607512597812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607512597812" />
+    <state x="456" y="247" width="1302" height="626" key="#xdebugger.evaluate" timestamp="1607415719191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="456" y="247" width="1302" height="626" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1607415719191" />
+    <state width="435" height="466" key="DebuggerActiveHint" timestamp="1607335457317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="435" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1607335457317" />
+    <state x="740" y="265" key="FileChooserDialogImpl" timestamp="1607692106197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607692106197" />
+    <state width="1877" height="312" key="GridCell.Tab.0.bottom" timestamp="1607613386007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607613386007" />
+    <state width="1877" height="312" key="GridCell.Tab.0.center" timestamp="1607613386007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607613386007" />
+    <state width="1877" height="312" key="GridCell.Tab.0.left" timestamp="1607613386007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607613386007" />
+    <state width="1877" height="312" key="GridCell.Tab.0.right" timestamp="1607613386007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607613386007" />
+    <state width="1877" height="334" key="GridCell.Tab.1.bottom" timestamp="1607439437586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607439437586" />
+    <state width="1877" height="334" key="GridCell.Tab.1.center" timestamp="1607439437586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607439437586" />
+    <state width="1877" height="334" key="GridCell.Tab.1.left" timestamp="1607439437586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607439437586" />
+    <state width="1877" height="334" key="GridCell.Tab.1.right" timestamp="1607439437586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="334" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607439437586" />
+    <state x="440" y="98" key="SettingsEditor" timestamp="1605873486918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605873486918" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1607613398754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607613398754" />
+    <state x="667" y="276" width="586" height="488" key="find.popup" timestamp="1605790189222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="276" width="586" height="488" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605790189222" />
+    <state x="342" y="225" key="new project wizard" timestamp="1607370142263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="225" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607370142263" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605794773793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605794773793" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607334987784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607334987784" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/vimalselvam/stf/AndroidTest.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/vimalselvam/stf/AndroidTest.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/vimalselvam/DeviceApi.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/vimalselvam/DeviceApi.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/vimalselvam/stf/AndroidTest.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/vimalselvam/stf/AndroidTest.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/vimalselvam/stf/AndroidTest.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="((HashMap)desiredCapabilities.capabilities).entrySet().toArray()[4]" language="JAVA" custom="java.util.HashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
